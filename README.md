@@ -1,1 +1,2 @@
 # SUPPORT-VECTOR-MACHINE-USING-R
+worked on SVM use cases
